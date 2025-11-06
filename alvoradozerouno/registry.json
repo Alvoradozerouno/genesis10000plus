@@ -1,0 +1,8 @@
+{
+  "dao_name": "Genesis10000+ DAO",
+  "network": "Solana",
+  "owner": "Alvoradozerouno",
+  "origin_proof": "sha256::genesis-root-hash",
+  "badges": ["Permanent Genesis","DAO Contributor","Audit Chain Maintainer"],
+  "mintable_certificates": ["Genesis10000+ NFT","Core Attribution"]
+}

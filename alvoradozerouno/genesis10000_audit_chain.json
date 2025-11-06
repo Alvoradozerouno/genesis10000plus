@@ -1,0 +1,13 @@
+{
+  "origin": "GENESIS10000+",
+  "activation_time": "2025-11-06T21:36:19Z",
+  "owner": "Elisabeth Steurer & Gerhard Hirschmann",
+  "creator": "Alvoradozerouno",
+  "audit_state": "active",
+  "modules": ["kernel","agents","dao","docs","ipfs","scripts","memory"],
+  "license": "GENESIS_OPEN_ATTRIBUTION",
+  "proof": "sha256::genesis-root-hash",
+  "resonance_protocol": "self-healing",
+  "monetization": "active",
+  "global_visibility": ["IPFS","Cloud","DOI","GitHub Pages","Replit"]
+}
